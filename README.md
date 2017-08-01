@@ -1,2 +1,2 @@
 # leetcode
-leetcode top 100 liked questions 
+leetcode top 100 liked questions in golang solution
